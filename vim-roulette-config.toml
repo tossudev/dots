@@ -1,4 +1,4 @@
-Vimruntime = '/home/linuxbrew/.linuxbrew/share/vim/vim92/colors/'
+Vimruntime = '/usr/share/vim/vim92/colors/'
 Favorites = [
 			"gruvbox",
 			"zaibatsu",
