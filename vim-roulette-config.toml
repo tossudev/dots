@@ -1,1 +1,5188 @@
-../.config/vim-roulette-config.toml
+Vimruntime = '/home/linuxbrew/.linuxbrew/share/vim/vim92/colors/'
+Favorites = [
+			"gruvbox",
+			"zaibatsu",
+			"colorsbox-stnight",
+			"peachpuff",
+			"pride",
+			"happy_hacking",
+			"garden",
+			"wood",
+			"underwater",
+			"miasma",
+			"azuki",
+			"sunbather",
+			"duotone-darkpool",
+			"tetragrammaton",
+			"twilight"
+]
+
+[[Themes]]
+Name = '0x7A69_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = '1989'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = '256-grayvim'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = '256-jungle'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = '256_noir'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = '3dglasses'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_CaveDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_CaveLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_DuneDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_DuneLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_EstuaryDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_EstuaryLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_ForestDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_ForestLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_HeathDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_HeathLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_LakesideDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_LakesideLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_PlateauDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_PlateauLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_SavannaDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_SavannaLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_SeasideDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_SeasideLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_SulphurpoolDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Atelier_SulphurpoolLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Benokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Black'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'BlackSea'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Blue2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'C64'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'CandyPaper'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Chasing_Logic'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ChocolateLiquor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ChocolatePapaya'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'CodeFactoryv3'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Dark2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DarkDefault'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DevC++'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Dev_Delight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Dim'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Dim2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DimBlue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DimGreen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DimGreens'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DimGrey'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DimRed'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'DimSlate'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Green'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'LightDefault'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'LightDefaultGrey'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'LightTan'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'LightYellow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Monokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'MountainDew'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'OceanicNext'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'OceanicNextLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'PapayaWhip'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'PaperColor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'PerfectDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Red'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Revolution'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'SerialExperimentsLain'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Slate'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'SlateDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Spink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'SweetCandy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Tomorrow-Night-Blue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Tomorrow-Night-Bright'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Tomorrow-Night-Eighties'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Tomorrow-Night'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'Tomorrow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'VIvid'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'White2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'abbott'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'abra'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'abstract'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'abyss'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'adam'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'adaryn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'adobe'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'adrian'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'advantage'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'adventurous'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'af'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'afterglow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'aiseered'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'alduin'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ancient'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'anderson'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'angr'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'anotherdark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ansi_blows'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'antares'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'apprentice'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'aqua'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'aquamarine'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'arcadia'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'archery'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'argonaut'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ashen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'asmanian2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'asmanian_blood'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'asmdev'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'asmdev2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'astronaut'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'asu1dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'atom'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'aurora'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'automation'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'autumn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'autumnleaf'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ayu'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'babymate256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'badwolf'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bandit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-ateliercave'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-atelierdune'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-atelierestuary'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-atelierforest'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-atelierheath'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-atelierlakeside'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-atelierplateau'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-ateliersavanna'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-atelierseaside'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-ateliersulphurpool'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'base16-railscasts'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'basic-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'basic-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'basic'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bayQua'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'baycomb'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bclear'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'beachcomber'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'beauty256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'beekai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'behelit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'benlight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bensday'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'billw'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'biogoo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'birds-of-paradise'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bitterjug'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'black_angus'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blackbeauty'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blackboard'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blackdust'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blacklight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blaquemagick'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blazer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bluechia'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bluedrake'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bluegreen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bluenes'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blueprint'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blues'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blueshift'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bluez'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blugrine'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bluish'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bmichaelsen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'boa'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bocau'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bog'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'boltzmann'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'borland'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'breeze'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'breezy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'brighton'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'briofita'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'broduo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'brogrammer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'brookstream'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'brown'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bubblegum-256-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bubblegum-256-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bubblegum'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'buddy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'burnttoast256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'busierbee'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'busybee'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'buttercream'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bvemu'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'bw'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'c'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'c16gui'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cabin'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cake'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cake16'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'calmar256-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'calmar256-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'camo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'campfire'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'candy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'candycode'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'candyman'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'caramel'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'carbonized-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'carbonized-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'carrot'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'carvedwood'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'carvedwoodcool'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cascadia'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'celtics_away'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cgpro'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'chalkboard'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'challenger_deep'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'chance-of-storm'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'charged-256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'charon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'chela_light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cherryblossom'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'chlordane'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'chocolate'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'chroma'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'chrysoprase'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'clarity'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cleanphp'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cleanroom'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'clearance'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cloudy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'clue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cobalt'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cobalt2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cobaltish'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'coda'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'codeblocks_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'codeburn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'codedark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'codeschool'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'coffee'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'coldgreen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorful'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorful256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorsbox-faff'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorsbox-greenish'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorsbox-material'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorsbox-stblue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorsbox-stbright'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorsbox-steighties'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorsbox-stnight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'colorzone'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'contrastneed'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'contrasty'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cool'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'corn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'corporation'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'crayon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'crt'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'crunchbang'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cthulhian'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'custom'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'cyberpunk'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'd8g_01'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'd8g_02'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'd8g_03'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'd8g_04'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dante'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dark-ruby'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkBlue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkZ'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkblack'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkblue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkblue2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkbone'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkburn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkdevel'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkdot'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkeclipse'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darker-robin'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkerdesert'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkglass'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkocean'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkrobot'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkslategray'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkspectrum'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darktango'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darkzen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'darth'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dawn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'deep-space'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'deepsea'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'default'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'delek'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'delphi'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'denim'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'derefined'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'desert'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'desert256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'desert256v2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'desertEx'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'desertedocean'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'desertedoceanburnt'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'desertink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'despacio'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'detailed'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'deus'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'devbox-dark-256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'deveiate'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'developer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'diokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'disciple'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'distill'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'distinguished'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'django'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dogrun'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'donbass'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'donttouchme'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'doorhinge'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'doriath'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dracula'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dracula_bold'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dual'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dull'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkcave'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkdesert'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkearth'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkforest'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkheath'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darklake'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkmeadow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkpark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkpool'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darksea'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'duotone-darkspace'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dusk'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dw_blue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dw_cyan'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dw_green'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dw_orange'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dw_purple'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dw_red'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dw_yellow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'dzo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'earendel'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'earth'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'earthburn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'eclipse'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'eclm_wombat'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ecostation'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'editplus'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'edo_sea'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ego'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'eink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ekinivim'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ekvoli'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'elda'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'eldar'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'elflord'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'elise'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'elisex'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'elrodeo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'elrond'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'emacs'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'enigma'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'enzyme'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'erez'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'eva'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'eva01-LCL'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'eva01'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'evening'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'evening1'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'evokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'evolution'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fahrenheit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fairyfloss'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'falcon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'far'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'felipec'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'feral'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fight-in-the-shade'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fine_blue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'firewatch'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flatcolor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flatland'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flatlandia'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flattened_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flattened_light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flattown'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flattr'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'flatui'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fnaqevan'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'focuspoint'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fog'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fogbell'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fogbell_light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fogbell_lite'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fokus'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'forneus'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'foursee'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'freya'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'frood'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'frozen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fruidle'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fruit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fruity'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fu'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'fx'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'garden'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gardener'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gemcolors'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'genericdc-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'genericdc'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gentooish'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'getafe'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'getfresh'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ghostbuster'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'github'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gobo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'golded'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'golden'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'goldenrod'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'goodwolf'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'google'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gotham'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gotham256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gothic'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'grape'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gravity'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'grayorange'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'graywh'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'grb256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'greens'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'greenvision'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'greenwint'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'grey2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'greyblue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'greygull'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'grishin'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gruvbox'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'gryffin'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'guardian'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'guepardo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'h80'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'habiLight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'happy_hacking'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'harlequin'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'heliotrope'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hemisu'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'herald'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'heroku-terminal'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'heroku'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'herokudoc-gvim'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'herokudoc'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhazure'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhdblue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhdcyan'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhdgray'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhdgreen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhdmagenta'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhdred'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhdyellow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhorange'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhpink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhspring'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhteal'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hhviolet'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'highlighter_term'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'highlighter_term_bright'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'highwayman'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hilal'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'holokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hornet'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'horseradish256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hotpot'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hual'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hybrid-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hybrid'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hybrid_material'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hybrid_reverse'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'hydrangea'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'iangenzo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ibmedit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'icansee'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'iceberg'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'immortals'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'impact'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'impactG'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'impactjs'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'industrial'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'industry'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ingretu'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'inkpot'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'inori'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ir_black'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ironman'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'itg_flat'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'itg_flat_transparent'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'itsasoa'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jaime'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jammy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'janah'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'japanesque'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jelleybeans'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jellybeans'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jellygrass'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jellyx'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jhdark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jhlight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jiks'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'jitterbug'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kalahari'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kalisi'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kalt'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kaltex'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kate'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kellys'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'khaki'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kib_darktango'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kib_plastic'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kings-away'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kiss'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kkruby'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'koehler'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kolor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kruby'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'kyle'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'laederon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lakers_away'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'landscape'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lanox'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lanzarotta'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lapis256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'last256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'late_evening'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lazarus'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'legiblelight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'leglight2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'leo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'less'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lettuce'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'leya'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lightcolors'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lightning'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lilac'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lilydjwg_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lilydjwg_green'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lilypink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lingodirector'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'liquidcarbon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'literal_tango'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lizard'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lizard256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lodestone'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'loogica'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'louver'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lucid'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lucius'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'luinnar'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lumberjack'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'luna-term'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'luna'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lxvc'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'lyla'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mac_classic'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'macvim-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'made_of_code'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'madeofcode'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'magellan'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'magicwb'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mango'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'manuscript'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'manxome'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'marklar'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'maroloccio'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'maroloccio2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'maroloccio3'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mars'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'martin_krischik'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'material-theme'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'material'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'materialbox'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'materialtheme'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'matrix'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'maui'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mayansmoke'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mdark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mellow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'messy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'meta5'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'metacosm'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'midnight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'miko'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'minimal'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'minimalist'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mint'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mizore'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mod8'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mod_tcsoft'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mohammad'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mojave'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'molokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'molokai_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'molokayo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'monoacc'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'monochrome'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'monokai-chris'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'monokai-phoenix'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'monokain'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'montz'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'moody'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'moonshine'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'moonshine_lowcontrast'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'moonshine_minimal'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mophiaDark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mophiaSmoke'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mopkai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'more'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'moria'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'moriarty'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'morning'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'moss'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'motus'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mountaineer-grey'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mountaineer-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mountaineer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mourning'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mrkn256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mrpink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mud'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'muon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'murphy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mushroom'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mustang'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'mythos'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'native'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nature'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'navajo-night'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'navajo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nazca'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nedit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nedit2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nefertiti'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neodark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neonwave'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nerv-ous'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nes'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nets-away'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neuromancer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neutron'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neverland-darker'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neverland'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neverland2-darker'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neverland2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'neverness'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nevfn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'new-railscasts'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'newspaper'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'newsprint'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nicotine'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'night'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightVision'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'night_vision'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightflight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightflight2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightshade'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightshade_print'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightshimmer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightsky'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nightwish'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'no_quarter'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'noclown'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nocturne'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nofrils-acme'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nofrils-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nofrils-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nofrils-sepia'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nord'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nordisk'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'northland'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'northpole'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'northsky'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'norwaytoday'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nour'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'nuvola'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'obsidian'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'obsidian2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'oceanblack'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'oceanblack256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'oceandeep'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'oceanic_material'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'oceanlight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'off'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'olive'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'one-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'one'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'onedark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'onehalfdark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'onehalflight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'orange-moon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'orange'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'orbital'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'osx_like'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'otaku'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'oxeded'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pablo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pacific'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'paintbox'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'paramount'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'parsec'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'peachpuff'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'peaksea'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pencil'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'penultimate'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'peppers'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'perfect'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'petrel'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pf_earth'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'phd'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'phoenix'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'phphaxor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'phpx'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pink-moon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pixelmuerto'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'plasticine'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'playroom'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pleasant'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'potts'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'predawn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'preto'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pride'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'primaries'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'primary'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'print_bw'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'prmths'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'professional'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'proton'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ps_color'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pspad'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pt_black'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'purify'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'putty'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pw'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'py-darcula'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'pyte'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'python'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'quagmire'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'quantum'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'radicalgoodspeed'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'raggi'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'railscasts'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rainbow_autumn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rainbow_fine_blue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rainbow_fruit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rainbow_night'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rainbow_sea'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rakr-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'random'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rastafari'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rcg_gui'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rcg_term'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rdark-terminal'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rdark-terminal2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rdark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'redblack'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'redstring'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'refactor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'relaxedgreen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'reliable'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'reloaded'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'revolutions'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'robinhood'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rockets-away'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ron'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'rootwater'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sadek1'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sand'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sandydune'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'satori'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'saturn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'scheakur'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'scite'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'scooby'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'seagull'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sean'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'seashell'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'seattle'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'selenitic'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'seoul'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'seoul256-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'seoul256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'seti'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'settlemyer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sexy-railscasts'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sf'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'shades-of-teal'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'shadesofamber'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'shine'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'shiny-white'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'shobogenzo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sialoquent'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sienna'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sierra'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sift'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'silent'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'simple256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'simple_b'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'simple_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'simpleandfriendly'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'simplewhite'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'simplon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'skittles_autumn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'skittles_berry'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'skittles_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sky'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'slate2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'smarties'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'smp'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'smpl'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'smyck'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'snow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'soda'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'softblue'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'softbluev2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'softlight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sol-term'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sol'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_dark_flat'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_dark_high'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_dark_low'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_flat'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_high'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_light_flat'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_light_high'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_light_low'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'solarized8_low'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sole'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sonofobsidian'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sonokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sonoma'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sorcerer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'soruby'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'soso'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sourcerer'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'southernlights'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'southwest-fog'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'space-vim-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spacecamp'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spacecamp_lite'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spacegray'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spacemacs-theme'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spartan'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spectro'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spiderhawk'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spring-night'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spring'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sprinkles'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'spurs_away'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'srcery-drk'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'srcery'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stackoverflow'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stefan'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stellarized'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stereokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stingray'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stonewashed-256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stonewashed-dark-256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stonewashed-dark-gui'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stonewashed-gui'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'stormpetrel'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'strange'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'strawimodo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'summerfruit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'summerfruit256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sunbather'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sunburst'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'surveyor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'swamplight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'sweater'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'symfony'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'synic'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'synthwave'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tabula'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tango-desert'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tango-morning'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tango'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tango2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tangoX'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tangoshady'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'taqua'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tatami'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tayra'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tchaba'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tchaba2'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tcsoft'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'telstar'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tender'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'termschool'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tesla'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tetragrammaton'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'textmate16'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'thegoodluck'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'thermopylae'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'thestars'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'thor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'thornbird'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tibet'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tidy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tigrana-256-dark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tigrana-256-light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tir_black'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tolerable'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tomatosoup'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tony_light'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'toothpik'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'torte'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'transparent'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'triplejelly'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'trivial256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'trogdor'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tropikos'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'true-monochrome'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'turbo'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'turtles'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'tutticolori'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'twilight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'twilight256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'twitchy'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'two-firewatch'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'two2tango'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ubaryd'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'ubloh'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'umber-green'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'understated'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'underwater-mod'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'underwater'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'unicon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'up'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'valloric'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vanzan_color'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vc'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vcbc'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vertLaiton'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vexorian'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vibrantink'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vice'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vilight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vim-material'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vimbrains'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vimbrant'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vimicks'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'visualstudio'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vividchalk'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vj'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'void'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vorange'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vydark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'vylight'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wargrey'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'warm_grey'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'warriors-away'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wasabi256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'watermark'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wellsokai'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'welpe'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'white'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'whitebox'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'whitedust'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'widower'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wikipedia'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'win9xblueback'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'winter'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'winterd'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wintersday'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'woju'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wolfpack'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wombat'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wombat256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wombat256dave'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wombat256i'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wombat256mod'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wood'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wuye'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wwdc16'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'wwdc17'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xcode-default'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xcode'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xedit'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xemacs'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xian'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xmaslights'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xoria256'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'xterm16'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'yeller'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'yellow-moon'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'yuejiu'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'zazen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'zellner'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'zen'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'zenburn'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'zenesque'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'zephyr'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'zmrok'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'znake'
+Color = 'Red'
+Custom = true
+
+[[Themes]]
+Name = 'blue'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'catppuccin'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'darkblue'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'default'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'delek'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'desert'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'elflord'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'evening'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'habamax'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'industry'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'koehler'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'lunaperche'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'morning'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'murphy'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'pablo'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'quiet'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'retrobox'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'ron'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'shine'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'slate'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'sorbet'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'torte'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'unokai'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'wildcharm'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'zaibatsu'
+Color = 'Red'
+Custom = false
+
+[[Themes]]
+Name = 'zellner'
+Color = 'Red'
+Custom = false
