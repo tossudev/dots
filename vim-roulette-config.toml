@@ -14,7 +14,8 @@ Favorites = [
 			"sunbather",
 			"duotone-darkpool",
 			"tetragrammaton",
-			"twilight"
+			"twilight",
+			"spacedust",
 ]
 
 [[Themes]]
@@ -5186,3 +5187,8 @@ Custom = false
 Name = 'zellner'
 Color = 'Red'
 Custom = false
+
+[[Themes]]
+Name = 'spacedust'
+Color = 'Red'
+Custom = true
