@@ -54,8 +54,8 @@ if [ -x /usr/bin/dircolors ]; then
 fi
 
 # some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
+alias ll='ls -SAhrl'
+alias la='ls -Al'
 alias l='ls -CF'
 
 # Add an "alert" alias for long running commands.  Use like so:
@@ -84,9 +84,34 @@ alias jonkler='cd /home/tossu && ./play_balatro.sh'
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
 
-PS1='\[\e[38;5;45;1m\][\[\e[38;5;39m\]\u\[\e[38;5;24m\]@\[\e[38;5;39m\]\h\[\e[39m\] \[\e[0;38;5;24m\]\w\[\e[38;5;45;1m\]]\[\e[0m\]   '
+# Welcome message
 
-alias welcome='echo -e "\e[38;5;45;1m
+custom_colors=(
+	'\e[38;2;255;44;109m'
+	'\e[38;2;25;249;216m'
+	'\e[38;2;69;169;249m'
+	'\e[38;2;255;117;181m'
+	'\e[38;2;176;132;235m'
+)
+
+custom_colors_dim=(
+	'\e[38;2;128;22;55m'
+	'\e[38;2;13;125;108m'
+	'\e[38;2;35;85;125m'
+	'\e[38;2;128;59;91m'
+	'\e[38;2;88;66;118m'
+)
+
+color_reset='\e[0m'
+
+alias setrandomcolor='size=${#custom_colors[@]};
+index=$(($RANDOM % $size));
+export BASH_COLOR=${custom_colors[$index]};
+export BASH_COLOR_DIM=${custom_colors_dim[$index]};
+export PS1="\[${BASH_COLOR}\][\u@\h \[${BASH_COLOR_DIM}\]\w\[${BASH_COLOR}\]]\[\e[0m\]   "'
+
+alias welcome='setrandomcolor;
+clear && echo -e "${BASH_COLOR}
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠄⠀⠀⠀⣠⡶⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣠⢤⠀⢤⠹⡌⠃⠀⠂⠀⠀⠀⠀⠀⠀⣠⠃⠘⣇⠀⠀⠁⠈⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠳⠼⠃⠢⠦⠙⠙⠀⠀⠀⠀⠀⢀⣤⠖⡧⠐⠚⠙⠳⠤⢀⢀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -98,7 +123,7 @@ alias welcome='echo -e "\e[38;5;45;1m
 ⠀⠀⠀⣿⣷⠋⠀⠀⠀⠀⠀⠙⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠢⡀⠀⠙⠙⠊⠠⠲⣢⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠈⣁⡀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠀⠀⠀⠀⠤⠳⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠑⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-"'
+\e[0m"'
 
 welcome
 
