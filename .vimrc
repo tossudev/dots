@@ -5,5 +5,5 @@ set hlsearch
 syntax enable
 
 set termguicolors
-colorscheme underwater
-
+colorscheme spacedust
+hi Normal guibg=NONE ctermbg=NONE
