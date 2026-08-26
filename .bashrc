@@ -57,6 +57,10 @@ fi
 alias ll='ls -SAhrl'
 alias la='ls -Al'
 alias l='ls -CF'
+alias x='exit'
+alias s='git fetch && git status'
+
+alias yy='xclip -i -selection clipboard'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -81,6 +85,7 @@ export PATH=$PATH:/usr/local/go/bin
 
 alias jonkler='cd /home/tossu && ./play_balatro.sh'
 
+alias m='cd /media/tossu/ssd/Music'
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
 
